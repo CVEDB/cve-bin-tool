@@ -1,0 +1,5 @@
+include requirements.txt
+include *.md
+include test/binaries/*.c
+include test/csv/*.csv
+include doc/*.md
